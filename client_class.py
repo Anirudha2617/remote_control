@@ -28,6 +28,7 @@ class Client:
     def screen(self):
         
 
+        # self.client.bind(("anurags-MacBook-Air.local",1234))
         self.client.connect(("Anirudha_Sahu",1234))
 
 
